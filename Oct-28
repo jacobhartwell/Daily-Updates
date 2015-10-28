@@ -5,25 +5,39 @@
 	</head>
 	<body>
 		<h1>Hello Jacob</h1>
-		<p>You have started on the journey to learning HTML/CSS, JavaScript, and general web development. The following resources are now active:</p>
+		<p>In your HTML/CSS, JavaScript, and general web development journey, some resources changed since last time:</p>
 		<ul>
-			<li>Git Bash: A version control system for coding</li>
-			<li>Bitbucket: Online resource for storing version in cloud</li>
-			<li>Sublime Text 3: Text editing/display software
-			<li>Codeacademy: You are currently partway thru CSS</li>
-			<li>Bookmarks in the "Programming" section on Chrome</li>
+			<li>GitShell replaced GitBash as your VCS system, although the shell option is still set to Git Bash</li>
+			<li>GitHub replaced BitBucket as your online resource for storage</li>
+			<li>Notepad++ replaced Sumblime as your text editor</li>
+			<li>Codeacademy remains active</li>
 		</ul>
 		<p>Last session I learned:</p>
 		<ol>
-			<li>Recommended resources for thinking and acting like a dev, including versioning software and problem-oriented thinking</li>
-			<li>Refresher on HTML tags like a href, table, img, div, and span</li>
-			<li>CSS allows you to outsource your formatting information to a document outside your HTML. You can set the properties of multiple tags all at the same time, allowing you to make small changes quickly or use the same style for multiple HTML pages. The format identifies a selector and then provides values for the properties of that selector. <em>Don't forget your brackets and semi-colons</em>.
+			<li>How to setup GitHub, especially web.browser and core.editor</li>
+			<li>How to add files to Git, display differences, etc.</li>
+			<li>Some <a href="http://regexone.com/">regular expressions</a>
+				<ul>
+					<li>any character: .</li>
+					<li>escapes with our trusty \</li>
+					<li>any one of these characters: [abc]</li>
+					<li>range from a to z: [a-z]</li>
+					<li>any character except b: ^b</li> 
+					<li>0 or more digits: /d*</li>
+					<li>1 or more digits: /d+.</li>
+				</ul>
 		</ol>
 		<p>Here are some things you should definitely do:</p>
 		<ol>
 			<li>Continue using Codeacademy to learn CSS</li>
-			<li>Figure out how to install Sublime tag plugins</li>
-			<li>Make and host a website chronicling this personal project</li>
+			<li>Website Ideas:
+				<ul>
+					<li>Display data of time spent per day on learning code skills (so far 5hrs Oct 23, 2hrs Oct 28)</li>
+					<li>Create a map of bikeable areas in Boston, include pop-ups explaining area</li>
+					<li>Create a portfolio of Alana's work</li>
+					<li>Bear Salon band page</li>
+				</ul>
+			</li>
 			<li>Visit some of the challenges/projects in your bookmarks
 			<li>Use Git/Github for all personal projects</li>
 			<li>Track your progress</li>
@@ -34,6 +48,7 @@
 			<li>Do a better job of collecting data from life in the form of photos, writings, etc.</li>
 			<li>Design logos for whatever you see that's interesting</li>
 			<li>Check out a business management/development course</li>
+			<li>Register for courses at Community College</li>
 		</ul>
 	<body>
 </html>
