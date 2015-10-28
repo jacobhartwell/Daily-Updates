@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Daily Reminder</title>
+	</head>
+	<body>
+		<h1>Hello Jacob</h1>
+		<p>You have started on the journey to learning HTML/CSS, JavaScript, and general web development. The following resources are now active:</p>
+		<ul>
+			<li>Git Bash: A version control system for coding</li>
+			<li>Bitbucket: Online resource for storing version in cloud</li>
+			<li>Sublime Text 3: Text editing/display software
+			<li>Codeacademy: You are currently partway thru CSS</li>
+			<li>Bookmarks in the "Programming" section on Chrome</li>
+		</ul>
+		<p>Last session I learned:</p>
+		<ol>
+			<li>Recommended resources for thinking and acting like a dev, including versioning software and problem-oriented thinking</li>
+			<li>Refresher on HTML tags like a href, table, img, div, and span</li>
+			<li>CSS allows you to outsource your formatting information to a document outside your HTML. You can set the properties of multiple tags all at the same time, allowing you to make small changes quickly or use the same style for multiple HTML pages. The format identifies a selector and then provides values for the properties of that selector. <em>Don't forget your brackets and semi-colons</em>.
+		</ol>
+		<p>Here are some things you should definitely do:</p>
+		<ol>
+			<li>Continue using Codeacademy to learn CSS</li>
+			<li>Figure out how to install Sublime tag plugins</li>
+			<li>Make and host a website chronicling this personal project</li>
+			<li>Visit some of the challenges/projects in your bookmarks
+			<li>Use Git/Github for all personal projects</li>
+			<li>Track your progress</li>
+		</ol>
+		<p>Here are some things you should consider doing:</p>
+		<ul>
+			<li>Find a good resource for fusking with Illustrator/Photoshop</li>
+			<li>Do a better job of collecting data from life in the form of photos, writings, etc.</li>
+			<li>Design logos for whatever you see that's interesting</li>
+			<li>Check out a business management/development course</li>
+		</ul>
+	<body>
+</html>
